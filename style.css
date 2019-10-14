@@ -1,0 +1,42 @@
+td,
+th{
+	border:1px;
+	padding:20px;
+}
+td{
+	 text-align: center;
+}
+td.elementen{
+	background-color: #696969;
+	color:#fff;
+}
+th{
+	background-color:#EBEBEB;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+.orange{
+	background-color:#d99b28;
+	font-weight: bold;
+	border: 1px solid black;
+}
+.purple{
+	background-color: #df80ff;
+	font-weight: bold;
+	border: 1px solid black;
+}
+.blue{
+	background-color: #46afe3;
+	font-weight: bold;
+	border: 1px solid black;
+}
+.yellow{
+	background-color: #ffe600;
+	font-weight: bold;
+	border: 1px solid black;
+}
+p{
+	color: green;
+}
